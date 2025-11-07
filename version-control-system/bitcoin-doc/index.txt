@@ -5,3 +5,7 @@ El Bitcoin es una moneda digital que ha revolucionado la manera en que entendemo
  su seguridad y transparencia. Desde su creación en 2009 por una persona o grupo bajo 
  el seudónimo de Satoshi Nakamoto, el Bitcoin ha pasado de ser una curiosidad tecnológica 
  a convertirse en un activo financiero de alto valor e interés mundial.
+
+ Bitcoin funciona gracias a una tecnología llamada blockchain o cadena de bloques, que es una especie de registro público donde se almacenan todas las transacciones realizadas. Cada bloque contiene información que no puede alterarse sin modificar toda la cadena, lo que hace que el sistema sea casi imposible de hackear o falsificar.
+Su principal característica es la descentralización: no existe una autoridad central que controle la emisión o el valor del Bitcoin. En lugar de eso, miles de computadoras alrededor del mundo verifican las transacciones mediante un proceso conocido como minería, donde los mineros compiten para resolver complejos problemas matemáticos y, a cambio, reciben bitcoins como recompensa.
+El Bitcoin puede usarse para comprar bienes y servicios, enviar dinero a cualquier parte del mundo o simplemente como inversión. Sin embargo, su valor es muy volátil: puede subir o bajar drásticamente en poco tiempo, lo que representa tanto una oportunidad como un riesgo para los inversionistas.
