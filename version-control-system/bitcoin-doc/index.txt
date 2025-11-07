@@ -1,1 +1,7 @@
 Qué es bitcoin?
+
+El Bitcoin es una moneda digital que ha revolucionado la manera en que entendemos el dinero.
+ A diferencia del dinero tradicional, no depende de bancos ni gobiernos, sino de una red descentralizada que garantiza 
+ su seguridad y transparencia. Desde su creación en 2009 por una persona o grupo bajo 
+ el seudónimo de Satoshi Nakamoto, el Bitcoin ha pasado de ser una curiosidad tecnológica 
+ a convertirse en un activo financiero de alto valor e interés mundial.
