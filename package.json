@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/worldstarpapi/devlaunch-juan-carreon/issues"
   },
-  "homepage": "https://github.com/worldstarpapi/devlaunch-juan-carreon#readme"
+  "homepage": "https://github.com/worldstarpapi/devlaunch-juan-carreon#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
